@@ -26,6 +26,7 @@ And for their absolute magnitude:
 - fBodyGyroMag;
 - fBodyGyroJerkMag.
 
+
 Activity labels:
 - 1: subject was walking during the test, labelled "WALKING";
 - 2: subject was walking up a staircase during the test, labelled "WALKING_UPSTAIRS";
