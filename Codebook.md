@@ -28,9 +28,9 @@ And for their absolute magnitude:
 
 
 Activity labels:
-- 1: subject was walking during the test, labelled "WALKING";
-- 2: subject was walking up a staircase during the test, labelled "WALKING_UPSTAIRS";
-- 3: subject was walking down a staircase during the test, labelled "WALKING_DOWNSTAIRS";
-- 4: subject was sitting during the test, labelled "SITTING";
-- 5: subject was standing during the test, labelled "STANDING";
-- 6: subject was laying down during the test, labelled "LAYING".
+- Subject was walking during the test, labelled "WALKING";
+- Subject was walking up a staircase during the test, labelled "WALKING_UPSTAIRS";
+- Subject was walking down a staircase during the test, labelled "WALKING_DOWNSTAIRS";
+- Subject was sitting during the test, labelled "SITTING";
+- Subject was standing during the test, labelled "STANDING";
+- Subject was laying down during the test, labelled "LAYING".
