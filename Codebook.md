@@ -14,6 +14,7 @@ Also there are the measurements (mean and standard deviation) for the following 
 - fBodyAccJerk-XYZ;
 - fBodyGyro-XYZ
 - fBodyGyroJerkMag.
+
 And for their absolute magnitude:
 - tBodyAccMag;
 - tGravityAccMag;
