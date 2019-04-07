@@ -8,7 +8,7 @@ The files hosted are:
 - run_analysis.R, the R script created to generate the tidy data set;
 - tidy_data.txt, that is de final data set.
 
-The R script works in the following way:
+The R script works according to the following steps:
 1. Download the data set;
 2. Reads the data from features and activity info;
 3. Reads the data from training and test data sets;
