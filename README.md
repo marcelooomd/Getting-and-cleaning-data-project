@@ -4,7 +4,7 @@ This repository contains the documentation and the R script used in the "Getting
 
 The files hosted are:
 - README.md, which provides a general view of the contents and how they were created;
-- Codebook.md, that describes the variables and the steps followed to generate them;
+- Codebook.md, that describes the resulting variables in the final tidy data set;
 - run_analysis.R, the R script created to generate the tidy data set;
 - tidy_data.txt, that is de final data set.
 
